@@ -15,7 +15,7 @@ Currently, I’m focusing on **C & C++**, **DSA**, and exploring **Web Developme
 ---
 
 ## 📂 My Repositories
-- [C Programming Practice](https://github.com/sakshijadhav0703) – My C programming codes organized by topics
+- https://github.com/sakshijadhav0703 
 - More projects coming soon 🚀
 
 ---
