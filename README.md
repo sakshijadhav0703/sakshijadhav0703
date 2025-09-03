@@ -16,14 +16,7 @@ Currently, I’m focusing on **C & C++**, **DSA**, and exploring **Web Developme
 
 ## 📂 My Repositories
 - https://github.com/sakshijadhav0703 
-- More projects coming soon 🚀
-
----
-
-## 🌱 Goals
-- Strengthen my problem-solving skills  
-- Work on mini projects to apply my learning  
-- Contribute to open source in the future  
+- More projects coming soon.
 
 ---
 
@@ -33,4 +26,3 @@ Currently, I’m focusing on **C & C++**, **DSA**, and exploring **Web Developme
 - **LinkedIn**:https://www.linkedin.com/in/sakshi-jadhav-b569b732a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 ---
 
-⭐ *“Learning step by step, one code at a time.”*
