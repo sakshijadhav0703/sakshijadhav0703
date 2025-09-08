@@ -23,6 +23,4 @@ Currently, I’m focusing on **C & C++**, **DSA**, and exploring **Web Developme
 ## 📫 Connect With Me
 - **GitHub**: [sakshii-sj07](https://github.com/sakshii-sj07)  
 - **email**: sakshijadhav8856@email.com
-- **LinkedIn**:www.linkedin.com/in/sakshi-jadhav07
----
-
+- **LinkedIn**:www.linkedin.com/in/sakshii-sj07
